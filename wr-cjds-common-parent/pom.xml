@@ -4,7 +4,7 @@
 
 	<groupId>wr-cjds.common</groupId>
 	<artifactId>wr-cjds-common-parent</artifactId>
-	<version>3.0-SNAPSHOT</version>
+	<version>4.SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>wr-cjds-common-parent</name>
